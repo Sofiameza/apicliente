@@ -10,5 +10,4 @@ funciones
 * crear ususarios
 * Borrar usuarios
 
-![Alumnos CBTis](https://cbtis.169.net/media/alumnos4.jpg))
-
+![Logo de Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
